@@ -16,3 +16,7 @@
 hello <- function() {
   print("Hello, limingrui!")
 }
+
+hello2 <- function() {
+  print("hello, likeqi!")
+}
